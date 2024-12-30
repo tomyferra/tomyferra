@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tomyferra" alt="tomyferra" /></a> </p>
 
-- 🔭 I’m currently working on **J.P.Morgan Chase**
+- 🔭 I’m currently working on **Athyna**
 
-- 🌱 I’m currently learning **React, Node, Express, Flask, Python, Postgres, MySql, etc...**
+- 🌱 I’m currently learning **FastAPI, AI, ML, Node, Express, Flask, Python, React, Postgres, MySql, etc...**
 
 - 👯 I’m looking to collaborate on **any full stack project!**
 
