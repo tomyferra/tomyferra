@@ -8,6 +8,11 @@
 
 </div>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tomyferra&label=Profile%20views&color=0e75b6&style=flat" alt="tomyferra" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tomyferra" alt="tomyferra" /></a> </p>
+
+
 ## 🚀 About Me
 
 I'm a **Software Engineer** with a unique background in **Electronic Engineering** and a passion for building scalable web applications. Currently working at **Athyna | Sparklight**, I specialize in full-stack development, automation, and cloud technologies.
