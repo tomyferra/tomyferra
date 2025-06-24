@@ -8,11 +8,6 @@
 
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tomyferra&label=Profile%20views&color=0e75b6&style=flat" alt="tomyferra" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tomyferra" alt="tomyferra" /></a> </p>
-
-
 ## 🚀 About Me
 
 I'm a **Software Engineer** with a unique background in **Electronic Engineering** and a passion for building scalable web applications. Currently working at **Athyna | Sparklight**, I specialize in full-stack development, automation, and cloud technologies.
@@ -88,14 +83,16 @@ I'm a **Software Engineer** with a unique background in **Electronic Engineering
 
 - **Spanish**: Native
 - **English**: C2 (Proficient)
-
+- 
 ## 📊 GitHub Stats
 
 <div align="center">
   
-![Tomas's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tomyferra&label=Profile%20views&color=0e75b6&style=flat" alt="tomyferra" /> </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tomyferra" alt="tomyferra" /></a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tomyferra&show_icons=true&locale=en&layout=compact" alt="tomyferra" /></p>
 
 </div>
 
